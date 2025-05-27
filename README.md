@@ -1,4 +1,4 @@
-# Olá, eu sou [Vitória Milian ] 👋
+# Olá, eu sou Vitória Milian👋
 
 🚀 Desenvolvedor(a) Front-end  
 🎮 Gamer nas horas vagas e fã de tecnologia.  
