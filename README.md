@@ -1,6 +1,6 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [Vitória Milian ] 👋
 
-🚀 Desenvolvedor(a) Front-end apaixonado(a) por criar interfaces bonitas e funcionais.  
+🚀 Desenvolvedor(a) Front-end  
 🎮 Gamer nas horas vagas e fã de tecnologia.  
 🌸 Amo design moderno, minimalista e tons de rosa.  
 📚 Atualmente estudando desenvolvimento web e sempre buscando aprender coisas novas.
